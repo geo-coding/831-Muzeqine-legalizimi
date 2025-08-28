@@ -19,3 +19,23 @@ Nebih Salihu
 
 ```
 
+# objekti 831-3
+
+```
+O-72809072-00831-3
+Rr. "Maliq Hoxha"
+
+| kati | sip |
+| -------------- | --------------- |
+| perdhesa | 125.83 |
+| kati 1 | 108.50 |
+| gjithsej: | 209.81 |
+
+--- pronari ----
+
+Nebih Salihu
+1030125009
+
+
+```
+
