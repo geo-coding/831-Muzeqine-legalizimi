@@ -76,3 +76,27 @@ Fadil Salihu
 | perdhesa | 130.68 |
 | kati 1 | 104.28 |
 | gjithsej: | 234.96 |
+
+
+# objekti 831-9
+
+```
+O-72809072-00831-9
+Rr. "Maliq Hoxha"
+
+
+--- pronari ----
+
+Fadil Salihu
+1004517926
+
+
+
+--- kerkesa ----
+241/2025
+
+
+```
+| kati | sip |
+| -------------- | --------------- |
+| perdhesa | 130.68 |
