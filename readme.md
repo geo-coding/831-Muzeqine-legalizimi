@@ -1,4 +1,3 @@
-Rashincë
 # objekti 831-2
 
 ```
@@ -10,6 +9,17 @@ Rr. "Maliq Hoxha"
 
 Nebih Salihu
 1030125009
+
+--- kerkesa ---
+
+239/2025
+Nebih Salihu
+1030125009
+00831-2
+Rr. "Maliq Hoxha"
+Rashincë
+Shtime
++38344188726
 
 
 ```
@@ -29,6 +39,9 @@ Rr. "Maliq Hoxha"
 
 Naser Salihaj
 1005577698
+
+--- kerkesa ---
+240/2025
 
 
 ```
@@ -50,6 +63,11 @@ Rr. "Maliq Hoxha"
 
 Fadil Salihu
 1004517926
+
+
+
+--- kerkesa ----
+241/2025
 
 
 ```
