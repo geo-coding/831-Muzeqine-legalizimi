@@ -33,8 +33,8 @@ Rr. "Maliq Hoxha"
 
 --- pronari ----
 
-Nebih Salihu
-1030125009
+Naser Salihaj
+1005577698
 
 
 ```
