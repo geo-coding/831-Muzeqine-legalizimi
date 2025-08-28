@@ -11,6 +11,11 @@ Rr. "Maliq Hoxha"
 | kati 1 | 108.50 |
 | gjithsej: | 209.81 |
 
+--- pronari ----
+
+Nebih Salihu
+1030125009
+
 
 ```
 
