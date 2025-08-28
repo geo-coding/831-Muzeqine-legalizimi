@@ -28,8 +28,8 @@ Rr. "Maliq Hoxha"
 | kati | sip |
 | -------------- | --------------- |
 | perdhesa | 125.83 |
-| kati 1 | 108.50 |
-| gjithsej: | 209.81 |
+| kati 1 | 129.00 |
+| gjithsej: | 254.83 |
 
 --- pronari ----
 
