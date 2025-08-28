@@ -84,16 +84,19 @@ Fadil Salihu
 O-72809072-00831-9
 Rr. "Maliq Hoxha"
 
+TËRBESH
+
 
 --- pronari ----
 
-Fadil Salihu
-1004517926
+Bedri (Nazif) Salihaj 
+1004963209
 
 
 
 --- kerkesa ----
 241/2025
+
 
 
 ```
