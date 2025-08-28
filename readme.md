@@ -95,7 +95,11 @@ Bedri (Nazif) Salihaj
 
 
 --- kerkesa ----
-241/2025
+
+242/2025
+Bedri (Nazif) Salihaj 
+1004963209
+00831-9
 
 
 
