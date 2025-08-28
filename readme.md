@@ -25,12 +25,6 @@ Nebih Salihu
 O-72809072-00831-3
 Rr. "Maliq Hoxha"
 
-| kati | sip |
-| -------------- | --------------- |
-| perdhesa | 125.83 |
-| kati 1 | 129.00 |
-| gjithsej: | 254.83 |
-
 --- pronari ----
 
 Naser Salihaj
@@ -38,6 +32,12 @@ Naser Salihaj
 
 
 ```
+| kati | sip |
+| -------------- | --------------- |
+| perdhesa | 125.83 |
+| kati 1 | 129.00 |
+| gjithsej: | 254.83 |
+
 
 # objekti 831-5
 
@@ -45,11 +45,6 @@ Naser Salihaj
 O-72809072-00831-5
 Rr. "Maliq Hoxha"
 
-| kati | sip |
-| -------------- | --------------- |
-| perdhesa | 130.68 |
-| kati 1 | 104.28 |
-| gjithsej: | 234.96 |
 
 --- pronari ----
 
@@ -58,3 +53,8 @@ Naser Salihaj
 
 
 ```
+| kati | sip |
+| -------------- | --------------- |
+| perdhesa | 130.68 |
+| kati 1 | 104.28 |
+| gjithsej: | 234.96 |
