@@ -99,4 +99,4 @@ Fadil Salihu
 ```
 | kati | sip |
 | -------------- | --------------- |
-| perdhesa | 130.68 |
+| perdhesa | 97.90 |
