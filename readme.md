@@ -48,8 +48,8 @@ Rr. "Maliq Hoxha"
 
 --- pronari ----
 
-Naser Salihaj
-1005577698
+Fadil Salihu
+1004517926
 
 
 ```
