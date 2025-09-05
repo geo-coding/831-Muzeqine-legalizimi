@@ -107,3 +107,14 @@ Bedri (Nazif) Salihaj
 | kati | sip |
 | -------------- | --------------- |
 | perdhesa | 97.90 |
+
+
+# objekti 831-4
+
+
+| kati | sip |
+| -------------- | --------------- |
+| perdhesa | 112.81 |
+| kati 1 | 112.81 |
+| gjithsej: | 225.62 |
+
